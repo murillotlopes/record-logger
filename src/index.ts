@@ -1,0 +1,1 @@
+export { LoggerService, LoggerConfig } from './logger.service'
